@@ -1,6 +1,5 @@
-package com.example.sbtest;
+package com.example.sbtest.qualifier;
 
-import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Service;
 
 @Service

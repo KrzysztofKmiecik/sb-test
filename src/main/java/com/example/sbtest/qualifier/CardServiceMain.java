@@ -1,4 +1,4 @@
-package com.example.sbtest;
+package com.example.sbtest.qualifier;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

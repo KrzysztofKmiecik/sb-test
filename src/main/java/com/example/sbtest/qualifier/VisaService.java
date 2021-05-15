@@ -1,4 +1,4 @@
-package com.example.sbtest;
+package com.example.sbtest.qualifier;
 
 import org.springframework.stereotype.Service;
 
